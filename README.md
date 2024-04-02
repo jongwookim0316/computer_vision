@@ -1,16 +1,19 @@
 <OPEN CV>
 
 open cv 란?
+
 OpenCV는 Open Source Computer Vision의 약자로 영상 처리에 사용할 수 있는 오픈 소스 라이브러리 입니다. 
 컴퓨터가 사람의 눈처럼 인식할 수 있게 처리해주는 역할을 하기도 하며, 우리가 많이 사용하는 카메라 어플에서도 OpenCV가 사용하기도 합니다.
 
 open cv 구조
+
 ![image](https://github.com/jongwookim0316/computer_vision/assets/135306103/7d4ca9ff-277f-4253-a011-7b57a191cfdf)
 
 ![image](https://github.com/jongwookim0316/computer_vision/assets/135306103/38b3708d-8516-4f04-90c8-325c17858177)
 
 
 open cv 실습
+
 1. 영상을 읽고 표시하기
 ![결과3](https://github.com/jongwookim0316/computer_vision/assets/135306103/96e16ee6-d431-4b77-80b8-8bfa46c9535f)
 ![결과3-1](https://github.com/jongwookim0316/computer_vision/assets/135306103/c018ea8f-a101-4594-829a-1e9f553c6b23)
