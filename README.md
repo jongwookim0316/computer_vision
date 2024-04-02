@@ -10,7 +10,7 @@ open cv 구조
 ![image](https://github.com/jongwookim0316/computer_vision/assets/135306103/7d4ca9ff-277f-4253-a011-7b57a191cfdf)
 
 ![image](https://github.com/jongwookim0316/computer_vision/assets/135306103/38b3708d-8516-4f04-90c8-325c17858177)
-
+사진 출처 : https://studium-anywhere.tistory.com/22
 
 open cv 실습
 
