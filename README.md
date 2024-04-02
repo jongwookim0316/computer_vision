@@ -1,4 +1,4 @@
-![결과7-1](https://github.com/jongwookim0316/computer_vision/assets/135306103/2850c33c-0626-4fe4-8ea0-81c8697e6dcf)<open cv 실습>
+<open cv 실습>
 1. 영상을 읽고 표시하기
 ![결과3](https://github.com/jongwookim0316/computer_vision/assets/135306103/96e16ee6-d431-4b77-80b8-8bfa46c9535f)
 ![결과3-1](https://github.com/jongwookim0316/computer_vision/assets/135306103/c018ea8f-a101-4594-829a-1e9f553c6b23)
