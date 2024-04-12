@@ -26,7 +26,13 @@
 
    3) 직선 검출1
 
+![사과 검출](https://github.com/jongwookim0316/computer_vision/assets/135306103/0af6bb76-cb23-46ed-8bc9-fed893220436)
+
    4) 직선 검출2
+
+![image](https://github.com/jongwookim0316/computer_vision/assets/135306103/b6be7ce6-120e-4497-832b-9618a75a9969)
+
+![image](https://github.com/jongwookim0316/computer_vision/assets/135306103/be32d7a0-84e5-4a17-b7ab-3b62a9c9bab5)
 
    5) 영역 분할
 
