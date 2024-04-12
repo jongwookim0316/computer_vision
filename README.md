@@ -1,3 +1,50 @@
+<edge_detection>
+
+1. edge_detection 란?
+   디지털 이미지 처리에서 중요한 작업 중 하나입니다. 이미지의 에지는 이미지에서 갑작스럽게 밝기가 변하는 부분으로, 대상의 형태나 구조를 나타내는 중요한 정보를 제공합니다.
+   에지 검출은 이러한 에지를 식별하고 감지하는 과정을 말합니다.
+  
+2. edge_detection 실습
+   1) edge 검출 
+
+![original_soccer](https://github.com/jongwookim0316/computer_vision/assets/135306103/5a695c5f-fbc8-4fb0-a55f-e3feefb4c7a5)
+
+![sobelx](https://github.com/jongwookim0316/computer_vision/assets/135306103/3e221b80-2856-41e7-be5a-a4995b4781da)
+
+![sobely](https://github.com/jongwookim0316/computer_vision/assets/135306103/185c009f-6141-49fc-b593-f2b8c2a47006)
+
+![edge_strength](https://github.com/jongwookim0316/computer_vision/assets/135306103/9c7d35d9-da98-4bd9-b7c6-3bc4f10c060a)
+
+
+   2) 캐니 edge
+
+![original_happy](https://github.com/jongwookim0316/computer_vision/assets/135306103/4a0adc14-b44f-4ca2-8dfe-c2010ae02ff7)
+
+![canny1](https://github.com/jongwookim0316/computer_vision/assets/135306103/0afc1817-d356-44ae-99f9-8b3eecb8c5b2)
+
+![canny2](https://github.com/jongwookim0316/computer_vision/assets/135306103/bde58878-ff0c-4107-9521-aaca7e0f0a03)
+
+   3) 직선 검출1
+
+   4) 직선 검출2
+
+   5) 영역 분할
+
+![영역분할](https://github.com/jongwookim0316/computer_vision/assets/135306103/f3b5060a-2219-44e3-96bd-dc1bc03f157d)
+
+   6) 최적화 분할
+
+![최적화 분할](https://github.com/jongwookim0316/computer_vision/assets/135306103/fea18101-2885-4c5a-b62f-51f1c5bc8902)
+
+   7) GrabCut을 이용한 대화식 분활
+
+![grabcut](https://github.com/jongwookim0316/computer_vision/assets/135306103/9f1bfa8c-4dab-43a0-8688-1bfdba6774b9)
+
+   8) 이진 영역의 특징
+
+![영역 특징](https://github.com/jongwookim0316/computer_vision/assets/135306103/8ca28bce-4a00-45f2-97c7-5ce1040bcc1b)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <OPEN CV>
 
 1. open cv 란?
