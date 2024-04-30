@@ -1,3 +1,25 @@
+<특징점 검출>
+
+1. 특징점 검출이란?
+이미지 내의 주요한 특징점을 검출하는 방법입니다. 해당 특징점이 존재하는 위치를 알려주거나 해당 특징점을 부각 시킵니다. 픽셀의 색상 강도, 연속성, 변화량, 의존성, 유사성, 임계점등을 사용하여 특징을 파악합니다.
+
+2. 특징점 검출 실습
+   1) 해리스 검출
+![해리스 검출1](https://github.com/jongwookim0316/computer_vision/assets/135306103/99dcd1bd-ed37-43fe-a8b9-2cd102b5ea29)
+![해리스 검출2](https://github.com/jongwookim0316/computer_vision/assets/135306103/37dac3c7-44f3-42cf-8c41-aab3fc4df1ee)
+![해리스 검출3](https://github.com/jongwookim0316/computer_vision/assets/135306103/a7f529f4-eed6-4fe8-9f11-3c6c69445ffc)
+
+   2) SIFT
+![SIFT](https://github.com/jongwookim0316/computer_vision/assets/135306103/868cf345-3d2a-45ab-b73c-df778ce2b644)
+
+   3) FLANN
+![FLANN](https://github.com/jongwookim0316/computer_vision/assets/135306103/55625610-966f-422a-9ee2-7f847e0d0867)
+
+   4) RANSAC
+![RANSAC](https://github.com/jongwookim0316/computer_vision/assets/135306103/27ad3371-e743-44c7-b112-75a408c34d31)
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <edge_detection>
 
 1. edge_detection 란?
