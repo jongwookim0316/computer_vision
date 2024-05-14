@@ -10,29 +10,38 @@
 3. 실습 결과
    
    1)  데이터와 텐서(다차원 배열)
+      
 ![실습1](https://github.com/jongwookim0316/computer_vision/assets/135306103/5ae58173-f374-4ba1-b516-ec3275c1e494)
 
    2) 다층 퍼셉트론으로 MNIST 인식하기(SGD 옵티마이저)
+
 ![실습2](https://github.com/jongwookim0316/computer_vision/assets/135306103/61561dbb-a814-416e-be8b-3149d2f1089f)
 
    3) 다층 퍼셉트론으로 MNIST 인식하기(Adam 옵티마이저)
+      
 ![실습3](https://github.com/jongwookim0316/computer_vision/assets/135306103/b25c2707-a311-48a0-8203-a83349367d25)
 
    4) SGD 와 Adam 성능 비교
+      
 ![실습4](https://github.com/jongwookim0316/computer_vision/assets/135306103/f0791522-2c44-45c4-a826-845ddbd03c45)
 
 
    5) 깊은 다층 퍼셉트론으로 MNIST 인식하기
+       
 ![실습5_accuracy](https://github.com/jongwookim0316/computer_vision/assets/135306103/5610cd9a-2721-4201-b352-3529e07f0393)
+
 ![실습5_loss](https://github.com/jongwookim0316/computer_vision/assets/135306103/a0d78ddd-470c-4e55-9116-3c722c83cbbd)
 
 
    6) 깊은 다층 퍼셉트론으로 CIFAR-10 인식하기
+      
 ![실습6수정_accuracy](https://github.com/jongwookim0316/computer_vision/assets/135306103/63b32cbb-f6fd-4633-afbd-710fb2ebd35b)
+
 ![실습6수정_LOSS](https://github.com/jongwookim0316/computer_vision/assets/135306103/01488c57-fb8b-46f6-adce-1e5bd978e8d1)
 
 
    7) 우편번호 인식하기(DMLP 버전)
+       
 ![실습7](https://github.com/jongwookim0316/computer_vision/assets/135306103/1bed7ff1-eb03-423e-829c-ce1cd6cdbdf1)
 
 
