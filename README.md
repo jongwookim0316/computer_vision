@@ -2,10 +2,12 @@
    
 1. MLP란?
 여러 개의 퍼셉트론 뉴런을 여러 층으로 쌓은 다층신경망 구조이다. 입력층과 출력층 사이에 하나 이상의 은닉층을 가지고 있는 신경망이다.
+
 ![image](https://github.com/jongwookim0316/computer_vision/assets/135306103/8c47dac6-8c02-4917-a790-4ee336814858)
+
 사진 출처 : [https://studium-anywhere.tistory.com/22](https://jitolit.tistory.com/107)
 
-2. 실습 결과
+3. 실습 결과
    
    1)  데이터와 텐서(다차원 배열)
 ![실습1](https://github.com/jongwookim0316/computer_vision/assets/135306103/5ae58173-f374-4ba1-b516-ec3275c1e494)
