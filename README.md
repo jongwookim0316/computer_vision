@@ -7,31 +7,39 @@ Convolutional Neural Networks의 약자로 딥러닝에서 주로 이미지나 �
 사진출처: https://velog.io/@kim_haesol/CNN-%EA%B8%B0%EC%B4%88%EC%84%A4%EB%AA%85
 
 2. 실습결과
+   
 1) 실습1
+   
    ![실습1](https://github.com/jongwookim0316/computer_vision/assets/135306103/8c0992a3-3dbc-4e2e-bed0-ea2fa2915e3a)
 
 2) 실습2
+   
 ![실습2_a](https://github.com/jongwookim0316/computer_vision/assets/135306103/180b3971-c21a-4574-92ae-63d7d6d80c37)
 
 ![실습2_l](https://github.com/jongwookim0316/computer_vision/assets/135306103/f8dc41c4-644e-411a-901d-829bac465db6)
 
-4) 실습3
+3) 실습3
+   
 ![실습3](https://github.com/jongwookim0316/computer_vision/assets/135306103/c0138ed8-af7c-49c8-a45e-39c80afd70e9)
 
-5) 실습4
+4) 실습4
+   
 ![실습4_1](https://github.com/jongwookim0316/computer_vision/assets/135306103/61e96309-8ff8-4930-86cb-2b518901ae04)
 
 ![실습4_2](https://github.com/jongwookim0316/computer_vision/assets/135306103/d6e87baa-09ae-47bb-8c73-236e4e149bb4)
 
-7) 실습5
+5) 실습5
+   
 ![실습5](https://github.com/jongwookim0316/computer_vision/assets/135306103/ce2e86c5-3e33-4086-8711-f1faaeaec1e7)
 
-8) 실습6
+6) 실습6
+   
 ![실습6_a](https://github.com/jongwookim0316/computer_vision/assets/135306103/d9bf2c2e-a9f6-4f35-9bc9-8d44a1f2cfd0)
 
 ![실습6_l](https://github.com/jongwookim0316/computer_vision/assets/135306103/e5d731a7-ca39-4ae6-8c2f-7237b58ad90f)
 
-10) 실습7
+7) 실습7
+   
 ![실습7](https://github.com/jongwookim0316/computer_vision/assets/135306103/e92ae0f2-06f6-47ee-bea1-ec77d264590e)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
