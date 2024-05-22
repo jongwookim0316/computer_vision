@@ -1,5 +1,6 @@
 <CNN>
 1. CNN이란?
+   
 Convolutional Neural Networks의 약자로 딥러닝에서 주로 이미지나 영상 데이터를 처리할 때 쓰이며 이름에서 알수있다시피 Convolution이라는 전처리 작업이 들어가는 Neural Network 모델입니다.
    
 ![image](https://github.com/jongwookim0316/computer_vision/assets/135306103/577475ce-c632-4d00-8c33-1fbbb7d336b0)
@@ -10,7 +11,7 @@ Convolutional Neural Networks의 약자로 딥러닝에서 주로 이미지나 �
    
 1) 실습1
    
-   ![실습1](https://github.com/jongwookim0316/computer_vision/assets/135306103/8c0992a3-3dbc-4e2e-bed0-ea2fa2915e3a)
+![실습1](https://github.com/jongwookim0316/computer_vision/assets/135306103/8c0992a3-3dbc-4e2e-bed0-ea2fa2915e3a)
 
 2) 실습2
    
